@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_jj_rl_raf_assess_2">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>JJ RL Raf Assessment 2</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/Raf Practical 1/jj_rl_raf_practical_2.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_jj_rl_raf_deploy_assess_2">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>JJ RL Raf Assessment 2</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>
